@@ -1,3 +1,4 @@
+// Manoj Ananthapadmanabhan suggested the use of anonymous functions and made the said changes
 var BRUNS=function() {
   // useful for default values in function parameters
   // http://stackoverflow.com/questions/894860/how-do-i-make-a-default-value-for-a-parameter-to-a-javascript-function
@@ -110,6 +111,6 @@ function writeOutput(avg, sr) {
 document.writeln('Sir Vivian Richards');
 writeOutput(47.0, 90.2);
 
-// Curtly Ambrose
-document.writeln('Curtly Ambrose');
+// Sir Curtly Ambrose
+document.writeln('Sir Curtly Ambrose');
 writeOutput(24.12, 3.48*100/6);
