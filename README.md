@@ -1,5 +1,11 @@
 # Bernoulli-Runs
-R and Javascript implementation of Bernoulli runs (for cricket) described here http://arxiv.org/pdf/1107.3104.pdf
+R and Javascript implementation of the `Bernoulli runs` metric described in:
+
+Anand Ramalingam ``Bernoulli Runs: Using ‘Book Cricket’ to Evaluate Cricketers'', 
+Resonance: Journal of Science Education, Springer Verlag,  May 2012, 17 (05)  
+
+Resonance: http://www.ias.ac.in/resonance/Volumes/17/05/0441-0453.pdf
+arXiv: http://arxiv.org/pdf/1107.3104.pdf
 
 To run R code:
 
