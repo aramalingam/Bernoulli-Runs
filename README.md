@@ -3,10 +3,13 @@ R and Javascript implementation of Bernoulli runs (for cricket) described here h
 
 To run R code:
 > source(file = "R/analytical.R")
+
 > bernoulli(avg = 47, sr = 90.2)
+
 $mean
 [1] 262.8434
+
 $sd
 [1] 13.75331
 
-To run the js implementation just open hello.html in your browser.
+To run the js implementation just open `js/hello.html` in your browser.
