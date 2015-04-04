@@ -2,7 +2,7 @@
 # Generate Bernoulli runs using Combinatorial formula
 # (*) Example - Batsman - Sir Viv Richards
 # > bernoulli(avg=47, sr=90.2);
-# (*) Example - Bowler - Curtly Ambrose
+# (*) Example - Bowler - Sir Curtly Ambrose
 # > bernoulli(avg=24.12, sr=3.48*100/6);
 #---------------------------------------------------------
 bernoulli <- function(avg, sr, wickets = 10, balls = 300) {
